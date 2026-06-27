@@ -2,6 +2,7 @@
 > Projeto de uma fonte reficadora, com valor de tensão ajustável entre 3 e 12 volts e capacidade de 100mA.
 
 ## Componentes e preços
+> não inclui protoboard e jumpers
 | Componente |      Unidades      | Preço |
 |-------------|   :-------------:  | -----:|
 | [led 5MM](https://www.caandma.com.br/produto/102048)      | 1 | R$0.50 |
