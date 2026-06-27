@@ -3,6 +3,7 @@
 
 ## Componentes e preços
 > não inclui protoboard e jumpers
+
 | Componente |      Unidades      | Preço |
 |-------------|   :-------------:  | -----:|
 | [led 5MM](https://www.caandma.com.br/produto/102048)      | 1 | R$0.50 |
