@@ -15,7 +15,7 @@
 | [TIP41C](https://www.caandma.com.br/produto/118540) | 1      |    R$3.80 |
 | TOTAL |  | R$15.81
 
-_* não inclui protoboard e jumpers
+_*não inclui protoboard e jumpers_
 
 7.71
 8.21
