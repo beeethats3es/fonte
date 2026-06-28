@@ -42,3 +42,11 @@ utilizados em diferentes pontos do circuito para definir pontos de operação e 
 
 ### led
 indicador visual de funcionamento. permanece aceso enquanto o circuito está energizado e a corrente contínua está presente, confirmando que a retificação ocorreu e que a fonte está operacional.
+
+## falstad
+![alt text](https://github.com/beeethats3es/fonte/blob/main/falstad.png "falstad")
+
+## easyeda
+![alt text](https://github.com/beeethats3es/fonte/blob/main/schematic.png "schematic")
+![alt text](https://github.com/beeethats3es/fonte/blob/main/pcb.png "pcb")
+
