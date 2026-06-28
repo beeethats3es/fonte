@@ -45,6 +45,7 @@ indicador visual de funcionamento. permanece aceso enquanto o circuito está ene
 
 ## falstad
 ![alt text](https://github.com/beeethats3es/fonte/blob/main/falstad.png "falstad")
+[click](https://tinyurl.com/22vep6tx)
 
 ## easyeda
 ![alt text](https://github.com/beeethats3es/fonte/blob/main/schematic.png "schematic")
