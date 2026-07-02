@@ -12,7 +12,7 @@
 | [diod ret.](https://www.caandma.com.br/produto/101793) | 4      |    R$0.80 |
 | [capac. 470μF](https://www.caandma.com.br/produto/108013) | 1      |    R$2.80 |
 | [tip41c](https://www.caandma.com.br/produto/118540) | 1      |    R$3.80 |
-| total |  | R$15.81 |
+| total |  | R$15.54 |
 
 *\*não inclui protoboard e jumpers*
 
