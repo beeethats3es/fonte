@@ -7,7 +7,6 @@
 | [led 5mm](https://www.caandma.com.br/produto/102048)      | 1 | R$0.50 |
 | [resistor 2k2](https://www.caandma.com.br/produto/102269) | 1      |   R$0.07 |
 | [resistor 750](https://www.caandma.com.br/produto/103984) | 1      |    R$0.07 |
-| [resistor 4k7](https://www.caandma.com.br/produto/102282) | 1      |    R$0.07 |
 | [poten. 10k](https://www.caandma.com.br/produto/102996) | 1      |    R$7.00 |
 | [zener 13V](https://www.caandma.com.br/produto/106665) | 1      |    R$0.50 |
 | [diod ret.](https://www.caandma.com.br/produto/101793) | 4      |    R$0.80 |
