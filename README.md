@@ -55,4 +55,4 @@ indicador visual de funcionamento. permanece aceso enquanto o circuito está ene
 ![alt text](https://github.com/beeethats3es/fonte/blob/main/foto1.jpg "foto1")
 ![alt text](https://github.com/beeethats3es/fonte/blob/main/foto2.jpg "foto2")
 
-[vídeo]([https://www.falstad.com/s.php?s=7m6x03](https://youtu.be/5UbX9_9E9Ko))
+[vídeo](https://youtu.be/5UbX9_9E9Ko)
