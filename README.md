@@ -170,3 +170,9 @@ $$\\text{ Ripple} = \left( \frac{\Delta V}{V_{in}} \right) \cdot 100 = \left( \f
 ![alt text](https://github.com/beeethats3es/fonte/blob/main/foto2.jpg "foto2")
 
 [vídeo](https://youtu.be/5UbX9_9E9Ko)
+
+## integrantes:
+
+Guilherme Bonfim Mendes Campelo
+João Pedro Soares Freire de Castro
+Bernardo Schramm Schutz Machado
