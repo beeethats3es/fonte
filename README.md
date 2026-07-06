@@ -174,5 +174,7 @@ $$\\text{ Ripple} = \left( \frac{\Delta V}{V_{in}} \right) \cdot 100 = \left( \f
 ## integrantes:
 
 Guilherme Bonfim Mendes Campelo. 
+
 João Pedro Soares Freire de Castro. 
+
 Bernardo Schramm Schutz Machado. 
